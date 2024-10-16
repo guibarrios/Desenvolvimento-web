@@ -1,0 +1,22 @@
+h1{
+    color: rgb(89, 0, 255);
+    font-size: 70px;
+}
+h2{
+    color: brown;
+}
+.subtitulos{
+    color: pink;
+}
+#paragrafo{
+    color: gold;
+}
+.h4{
+    color: green;
+}
+#h4{
+    color: red;
+}
+h4{
+    color: brown;
+}

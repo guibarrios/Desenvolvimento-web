@@ -1,0 +1,8 @@
+.menu{ /* Personaliza cabeçalho */
+    list-style: none;
+    text-align: center;
+    background-color: goldenrod;
+}
+.menu li a{ /* Personaliza especificamente itens dentro de 'li' e 'a' */
+    color: green;
+}
