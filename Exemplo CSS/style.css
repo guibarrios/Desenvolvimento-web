@@ -1,22 +1,22 @@
-h1{
+h1{ /* Personalizando todos h1 */
     color: rgb(89, 0, 255);
     font-size: 70px;
 }
-h2{
+h2{ /* Personalizando todos h2 */
     color: brown;
 }
-.subtitulos{
+.subtitulos{ /* Personalizando a classe nomeada subtitulos */
     color: pink;
 }
-#paragrafo{
+#paragrafo{ /* Personalizando o id nomeado paragrafo */
     color: gold;
 }
-.h4{
+.h4{ /* Personalizando a classe nomeada h4 */
     color: green;
 }
-#h4{
+#h4{ /* Personalizando o id nomeado h4 */
     color: red;
 }
-h4{
+h4{ /* Personalizando todos h4 */
     color: brown;
 }
