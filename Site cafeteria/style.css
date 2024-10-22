@@ -1,6 +1,5 @@
 html{
     font-family: cursive; /* alterando a fonte */
-    ;
 }
 
 /* MENU */
@@ -52,14 +51,8 @@ main{ /* alinha section com a div que estão no main */
 }
 .borda-cafe{ /* cria borda na imagem café principal */
     background-color: goldenrod;
-    width: 500px;
-    height: 500px;
     border-radius: 500px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
 }
-#tamanho-cafe{
+.borda-cafe img{ /* define tamanho da imagem */
     width: 500px;
 }
