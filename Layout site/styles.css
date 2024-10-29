@@ -1,0 +1,35 @@
+header {
+  background-color: blue;
+}
+main {
+  background-color: brown;
+}
+main section {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+}
+main section div {
+  background-color: blueviolet;
+}
+.corpo {
+  color: deepskyblue;
+  height: 1000px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: first baseline;
+  align-items: center;
+}
+.barralateral {
+  color: chartreuse;
+  /* height: 600px;
+  width: 150px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+footer {
+  background-color: aqua;
+}
