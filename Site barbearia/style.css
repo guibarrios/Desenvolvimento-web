@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.titulo{}
+.menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 200px;
+}
